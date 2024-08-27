@@ -2,10 +2,10 @@
 [Jiebin Yan], [Jiale Rao], [Xuelin Liu], [Yuming Fang], [Yifan Zuo],  [Weide Liu]
 
 ## Database:JUFE-10K
-
+![image.png](images/database.jpg)
 
 ## :book:Model Architecture
-![image.png](image/model.jpg)
+![image.png](images/model.jpg)
 
 
 ## :hammer_and_wrench: Usage
