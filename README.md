@@ -1,4 +1,4 @@
-# ProjectName
+# Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images
 
 ProjectName and Description
 
