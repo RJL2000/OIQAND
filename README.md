@@ -1,7 +1,7 @@
 # Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images
-[Jiebin Yan], [Jiale Rao], [Xuelin Liu] [Yuming Fang] [Yifan Zuo]  [Weide Liu]
+[Jiebin Yan], [Jiale Rao], [Xuelin Liu], [Yuming Fang], [Yifan Zuo],  [Weide Liu]
 
-# JUFE-10K
+# Database:JUFE-10K
 
 
 ## :book:Model Architecture
@@ -20,11 +20,7 @@ Then
 ```sh
 
 ```
-If you want to test the trained model on the test set:
 
-```sh
-
-```
 
 ### Training OIQAND
 - Modify "dataset_name" to choose which datasets you want to train in config
