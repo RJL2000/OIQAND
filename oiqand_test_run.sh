@@ -1,0 +1,1 @@
+nohup python OIQAND_test.py > '../output/8-26-JUFE_10K-OIQAND-vp8_cnn_oiqa(B=8, GPU_num=3, GPU_device=2,3,4).log' 2>&1 & # train
