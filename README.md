@@ -1,5 +1,5 @@
 # Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images
-[Jiebin Yan] [Jiale Rao] [Xuelin Liu] [Yuming Fang] [Yifan Zuo]  [Weide Liu]
+[Jiebin Yan], [Jiale Rao], [Xuelin Liu] [Yuming Fang] [Yifan Zuo]  [Weide Liu]
 ## :book:Model Architecture
 ![image.png](image/model.jpg)
 
