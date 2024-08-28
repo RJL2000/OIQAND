@@ -4,7 +4,7 @@
 ## Database:JUFE-10K
 ![image.png](images/database.jpg)
 
-JUFE-10K link: https://pan.baidu.com/s/15_f1wkKEI_zCvB4EP5MFnA; Extraction code: JUFE.
+JUFE-10K link: https://pan.baidu.com/s/15_f1wkKEI_zCvB4EP5MFnA; Extraction code: XXXX.
 
 ## :book:Model Architecture
 ![image.png](images/model.jpg)
@@ -18,7 +18,7 @@ If you want to retrain the OIQAND model, using JUFE-10K database or another data
 - In get_viewport_images folder run demo.m
 - Note: You can download the viewport images extracted from the JUFE-10K database directly from XXXX.com
 ```
-   run demo.m. 
+run demo.m. 
 ```
 ### Training OIQAND
 Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
