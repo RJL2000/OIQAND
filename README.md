@@ -14,14 +14,12 @@ JUFE-10K link: https://pan.baidu.com/s/15_f1wkKEI_zCvB4EP5MFnA; Extraction code:
 
 ### Viewport Images Extraction
 If you want to retrain the OIQAND model, using JUFE-10K database or another database, you first need to prepare viewport images.
+
+- In get_viewport_images folder run demo.m
+- Note: You can download the viewport images extracted from the JUFE-10K database directly from XXXX.com
 ```
-In get_viewport_images folder 
    run demo.m. 
-   run demo.m is modified according to the path where the image data is stored.
-
-note: You can download the viewport images extracted from the JUFE-10K database directly from XXXX.com
 ```
-
 ### Training OIQAND
 Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
 
