@@ -4,7 +4,8 @@
 ## Database:JUFE-10K
 ![image.png](images/database.jpg)
 
-JUFE-10K link: https://pan.baidu.com/; Extraction code: XXXX.
+You can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1eL1yee3wISC1QVn4zXnXrw) (Password: JUFE)
+
 
 ## :book:Model Architecture
 ![image.png](images/model.jpg)
