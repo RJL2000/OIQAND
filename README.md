@@ -19,7 +19,7 @@ If you want to retrain the OIQAND model, using JUFE-10K database or another data
 
 - In get_viewport_images folder run demo.m
 ```
-run demo.m. 
+run demo.m
 ```
 ### Training OIQAND
 Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
