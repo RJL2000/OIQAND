@@ -3,6 +3,7 @@
 
 ## Database:JUFE-10K
 ![image.png](images/database.jpg)
+![image.png](images/dis_type.png)
 
 You can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1eL1yee3wISC1QVn4zXnXrw) (Password: JUFE)
 
@@ -17,7 +18,6 @@ You can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1eL1yee3wISC1QVn
 If you want to retrain the OIQAND model, using JUFE-10K database or another database, you first need to prepare viewport images.
 
 - In get_viewport_images folder run demo.m
-- Note: You can download the viewport images extracted from the JUFE-10K database directly from XXXX.com
 ```
 run demo.m. 
 ```
