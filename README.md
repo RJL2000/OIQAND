@@ -30,7 +30,22 @@ Modify the configuration in code/OIQAND_config.py
 - Modify training and test dataset path
 
 ```
-sh oiqand_train_run.py
+sh oiqand_train_run.sh
 ```
 
+## Citation
+**If you find this code is useful for  your research, please cite**:
 
+```latex
+@article{yan2024oiqand,
+  title={Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images},
+  author={Yan, Jiebin and Rao, Jiale Rao and Liu, Xuelin and Fang, Yuming Fang and Zuo, Yifan and Liu, Weide},
+  journal={IEEE Transactions on Multimedia},
+  year={2024}
+}
+```
+
+## Acknowledgement
+
+1. <https://github.com/LXLHXL123/JUFE-VRIQA>
+2. <https://github.com/TianheWu/Assessor360>
