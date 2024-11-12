@@ -39,7 +39,7 @@ sh oiqand_train_run.sh
 ```latex
 @article{yan2024oiqand,
   title={Subjective and Objective Quality Assessment of Non-Uniformly Distorted Omnidirectional Images},
-  author={Yan, Jiebin and Rao, Jiale Rao and Liu, Xuelin and Fang, Yuming Fang and Zuo, Yifan and Liu, Weide},
+  author={Yan, Jiebin and Rao, Jiale and Liu, Xuelin and Fang, Yuming and Zuo, Yifan and Liu, Weide},
   journal={IEEE Transactions on Multimedia},
   year={2024}
 }
