@@ -24,14 +24,23 @@ run demo.m
 ### Training OIQAND
 Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
 
-Modify the configuration in code/OIQAND_config.py
+Modify the configuration in Original_code/config.py
 
 - Modify "dataset_name" to choose which datasets you want to train in config
 - Modify training and test dataset path
 
 ```
-sh oiqand_train_run.sh
+sh run.sh
 ```
+
+If you want to directly test OIQAND model trained on JUFE-10K, you can download Weights at [Baiduyun](https://pan.baidu.com/s/1KeY07G6j5yoWtyREstB7kA?pwd=jufe) (Password: jufe)
+
+```
+sh test-run.sh
+```
+
+NOTE: The code in the code folder is the refactoring code of OIQAND model. I hope it will be easy for you to understand about OIQAND model
+
 
 ## Citation
 **If you find this code is useful for  your research, please cite**:
